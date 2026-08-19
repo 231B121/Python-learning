@@ -29,3 +29,4 @@ print("Name:", name)
 print("Total:", total)
 print("Percentage:", percentage)
 print("Grade:", grade)
+

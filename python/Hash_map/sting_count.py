@@ -1,5 +1,5 @@
 s="sdfiyuouihaodhfnouqqef"
-q=["d","a","t","f","w","m","o"]
+q=["d","a","t","f","w","m","z"]
 
 hash_list = [0] * 27
 

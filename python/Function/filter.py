@@ -10,4 +10,3 @@ print(list(result))
 #  map()     → sabhi items ko change/process karo
 #  filter()  → kuch items ko select karo
 #  reduce()  → sab items ko combine karke ONE result banao
-#
